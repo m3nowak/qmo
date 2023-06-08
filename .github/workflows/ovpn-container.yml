@@ -1,4 +1,4 @@
-name: build nats-js-prom image
+name: build qmo-ovpn image
 
 on:
   push:
